@@ -25,6 +25,16 @@ Cada repositório tem um README com o passo a passo para rodar. Os que lidam com
 | [**lol-draft-analyzer**](https://github.com/eduardohenrique-dev/lol-draft-analyzer) | App desktop que lê o draft de League of Legends competitivo e calcula o Prio Score | Python, Qt, pandas |
 | [**figjam-dark-dots**](https://github.com/eduardohenrique-dev/figjam-dark-dots) | Plugin do FigJam com fundo escuro pontilhado e o contraste calculado pela fórmula WCAG | TypeScript |
 
+### Apps de Windows: a coletânea Quintal
+
+Três apps de bandeja com a mesma família visual, cada um com um bicho e uma cor.
+
+| Projeto | O que é | Stack |
+| --- | --- | --- |
+| [**acervo**](https://github.com/eduardohenrique-dev/acervo) | O armazenamento do PC como no iPhone: lê a MFT do NTFS, separa cada disco em 10 categorias e atualiza ao vivo | Rust, Tauri, React |
+| [**palco**](https://github.com/eduardohenrique-dev/palco) | Manda cada jogo para a tela escolhida, inclusive os que só abrem no monitor principal, e devolve tudo ao fechar | Rust, Tauri, Win32 |
+| [**penumbra**](https://github.com/eduardohenrique-dev/penumbra) | Escurece cada monitor separadamente, juntando o brilho real (DDC/CI) com uma camada por cima | Rust, Tauri, Win32 |
+
 ### Demos (o sistema real é privado)
 
 | Demo | O que é |
@@ -39,7 +49,7 @@ Cada repositório tem um README com o passo a passo para rodar. Os que lidam com
   <img src="assets/pilha.png" alt="Ícones em pixel art de TypeScript, React, Next.js, Vite, Tailwind CSS, Node.js, PostgreSQL, Supabase, Prisma, Python, OpenCV, GSAP, Vitest e Vercel" width="100%">
 </p>
 
-TypeScript, React, Next.js, Vite, Tailwind CSS, Node.js, PostgreSQL, Supabase, Prisma, Python, OpenCV, GSAP, Vitest e Vercel.
+TypeScript, React, Next.js, Vite, Tailwind CSS, Node.js, PostgreSQL, Supabase, Prisma, Python, OpenCV, GSAP, Vitest e Vercel. Nos apps de Windows, Rust e Tauri.
 
 ## Além do código
 
